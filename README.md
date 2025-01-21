@@ -24,12 +24,6 @@ Welcome to my GitHub profile! I aspire to excel in the field of **Data** and am 
 
 ---
 
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrisailamJeripothula&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrisailamJeripothula&layout=compact&theme=radical)
-
----
-
 ## 📢 **Let’s Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srisailamjeripothula/)
