@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I aspire to excel in the field of **Data** and am 
 
 ## 🛠️ **Technical Skills**
 
-- **Programming**: Python, SQL, HTML, CSS
+- **Programming**: Python, SQL, HTML, CSS,Numpy,Pandas
 - **Data Visualization**: Tableau, Power BI
 - **Statistical Tools**: Statistics, Data Analysis
 
