@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I aspire to excel in the field of **Data** and am 
 
 - 🎓 **Education**:
   - Currently enrolled in **Master of Science in Computer Science (AI/ML specialization)** at Woolf University.
-  - Completed **MSc in Engineering Management** from the University of Northumbria.
   - Earned **B.Tech in Mechanical Engineering** from Anurag College of Engineering.
 - 📚 **Interests**:
   - I enjoy reading books, especially those focused on personal development.
